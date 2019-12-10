@@ -8,4 +8,3 @@ https://github.com/progit/progit2/releases/download/2.1.176/progit.pdf
 
 ##### I hope this tips  be useful in Git #####
 
-Line to test git diff, will remove it after finishing testing
