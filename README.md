@@ -1,7 +1,11 @@
-#### Studying Git from ProGit.PDF####
-# This is my studying tips during studying git from its official documentation #
+# Studying Git from ProGit.PDF #
+##### This is my studying tips during studying git from its official documentation #####
 
 ## Download Link URL: ##
 https://github.com/progit/progit2/releases/download/2.1.176/progit.pdf
 
-# I hope this tips  be useful for every newbie in Git #
+#### This study tips for those who has has and worked with git basics before ####
+
+##### I hope this tips  be useful in Git #####
+
+Line to test git diff, will remove it after finishing testing
