@@ -4,7 +4,10 @@
 ## Download Link URL: ##
 https://github.com/progit/progit2/releases/download/2.1.176/progit.pdf
 
+<<<<<<< HEAD
 #### This study tips for those who has has and worked with git basics before ####
 
 ##### I hope this tips  be useful in Git #####
 
+=======
+##### I hope this tips  be useful for every newbie in Git #####
